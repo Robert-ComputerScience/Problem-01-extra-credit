@@ -8,7 +8,6 @@ Problem 01: An anagram is a word or phrase formed by rearranging the letters of 
  you need to develop a function that sorts the anagrams and display them next to each other.
 
 
-
  */
 public class Problem01ExtraCredit
 {
